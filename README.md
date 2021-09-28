@@ -1,6 +1,6 @@
-# flask-api
-An example flask rest API server.
+# Class Demo
 
-To build production, type `make prod`.
+## Requirments 
+Show the class how to get going!
 
-To create the env for a new developer, run `make dev_env`.
+
